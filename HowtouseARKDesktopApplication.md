@@ -2,8 +2,6 @@
 
 # <center>**How to use ARK Desktop Application**</center>
 
-___
-
 #### What is it?
 
 The ARK Desktop Application is the primary software that most users will utilize to store, send, receive, vote and do much more with their Ark. The desktop application/client interfaces with your wallet and allows you to interface with Ark!
@@ -12,48 +10,51 @@ This User Guide is for the everyday, non-developer Ark consumer.
 
 #### First things first...
 
-We first have to download the ArkClient to get started. Start here (*if you already have the ArkClient downloaded feel free to skip to the next section to get started on the topic you're interested in learning more about*):
+We first have to download the ArkClient to get started. Start here (*if you already have the ArkClient downloaded feel free to skip to the next section to get started on the topic you're interested in learning more about*) :
 
 [ArkClient Download](https://github.com/ArkEcosystem/ark-desktop/releases)
 
-*or* feel free to type in the URL bar ark.io, dropdown Wallets and select Desktop Wallet.
+*or* feel free to type in the URL bar <https://ark.io/>, dropdown Wallets and select Desktop Wallet.
 
-**Note**: The above link is the authoriatative source for the latest ArkClient. As a friendly reminder, don't ever click on links that are not sponsered by or provided by the official Ark Team. 
+**Note**: The above link is the authoriatative source for the latest ArkClient. As a friendly reminder, don't ever click on links that are not sponsered by or provided by the Official Ark Team. 
 
 When you arrive on this page you will see multiple options for the ArkClient. Select the one that reflects your operating system: 
 
 ![Client-Page](https://i.imgur.com/mayofKo.png?1)
 
 ### In this User Guide we will review the following topics:
-###### *Feel free to navigate to the specific topic you're interested in, or read from beginning to end if you're new to the ArkClient*
+###### *Feel free to navigate to the specific topic you're interested in by clicking on it, or read from beginning to end if you're new to the ArkClient*
 
-* **Creating your Ark Wallet**
-	* Identifying your Ark Wallet Address
-* **Sending Ark to your Ark Wallet** (*from an exchange*)
-* **Sending Ark from your Ark Wallet**
-* **Voting with your Ark Wallet**
-* **Unvoting a delegate**
+* **[Creating your Ark Wallet](#creatingarkwallet)**
+	* [Identifying your Ark Wallet Address](#idwalletaddress)
+* **[Sending Ark to your Ark Wallet](#sendingarkto)** (*from an exchange*)
+* **[Sending Ark from your Ark Wallet](#sendingarkfrom)**
+* **[Voting with your Ark Wallet](#voting)**
+* **[Unvoting a delegate](#unvote)**
 * **Various functions & features within the Ark Client/Desktop Application**
-	* Appearance
-	* Renaming your Ark Wallet
-	* Adding a second passphrase
-	* Remove wallet from Client
-	* Timestamp a File
+	* [Appearance](#appear)
+	* [Renaming your Ark Wallet](#rename)
+	* [Adding a second passphrase](#2ndpass)
+	* [Remove wallet from ArkClient](#removewallet)
+	* [Import Account](#import)
+	* [Timestamp a File](#timestamp)
 	* Different settings within Ark Client/Desktop Application
-		* Currency
+		* [Currency](#currency)
 			* Price
-		* Language
-	* Add Contacts 	
-* **Frequently Asked Questions**
-* **Appendix/Useful Links**
+		* [Language](#lang)
+	* [Add Contacts](#contacts) 	
+* **[Frequently Asked Questions](#FAQ)**
+* **[Appendix/Useful Links](#appen)**
 
 
 ___
 
-### Creating your Ark Wallet
+### <a name="creatingarkwallet">Creating your Ark Wallet</a>
+
+Your Ark Wallet is a unique address that will store your Ark. 
 
 1. Open the ArkClient.
-2. Select "CREATE ACCOUNT" 
+2. Select "CREATE ACCOUNT".
 
 ![Imgur](https://i.imgur.com/oxNm2pc.png)
 
@@ -73,20 +74,22 @@ ___
 
 ___
 
-#### Identifying your Ark Wallet Address
+#### <a name="idwalletaddress">Identifying your Ark Wallet Address</a>
 
-Your Ark Wallet address is presented to you at the top of the client, under 'Address' and to the left of the *Copy* icon. This address is 100% unique to your wallet. You will need this address in the future to send Ark to your wallet. You can automatically copy is by simply clicking on it. 
+Your Ark Wallet address is presented to you at the top of the client, under 'Address' and to the right of the *Copy* icon. This address is 100% unique to your wallet. You will need this address in the future to send Ark to your wallet. You can automatically copy is by simply clicking on it. 
 
 ![Imgur](https://i.imgur.com/AlPhwoa.png)
 
 ___
 
 
-### Sending Ark to your Ark Wallet (*from an exchange*)
+### <a name="sendingarkto">Sending Ark to your Ark Wallet (*from an exchange*)</a>
+
+Your Ark Wallet stores your Ark for you. In order to interface with Ark you need to add some to your wallet. 
 
 1. First you will need to buy some Ark, which is available across many exchanges today and growing regularly. You can find a list of exchanges here:
 
-https://ark.io/exchanges
+<https://ark.io/exchanges>
 
 2. Once you've purchased some Ark via an exchange you will be ready to send your Ark to your Ark Wallet.
 
@@ -108,7 +111,7 @@ https://ark.io/exchanges
 
 ___
 
-### Sending Ark from your Ark Wallet
+### <a name="sendingarkfrom">Sending Ark from your Ark Wallet</a>
 
 Now that your have a balance of Ark in your wallet, you may want to send it out. Someone may want to send Ark to another Ark address for any number of reasons, perhaps you want to sell your Ark, pay for a good or service, or donate Ark to the Ark Community Fund. Sending Ark is quick & easy. 
 
@@ -128,7 +131,7 @@ Now that your have a balance of Ark in your wallet, you may want to send it out.
 
 6. When you're ready to send select "NEXT". 
 
-7. You'll now see a Transaction box, confirm all information is correct and select "SEND < > NOW"
+7. You'll now see a Transaction box, confirm all information is correct and select "SEND NOW".
 
 <center>![Imgur](https://i.imgur.com/k9l1oKy.png)</center>
 
@@ -136,11 +139,11 @@ Now that your have a balance of Ark in your wallet, you may want to send it out.
 
 ___
 
-### Voting with your Ark Wallet
+### <a name="voting">Voting with your Ark Wallet</a>
 
 Voting or otherwise known as staking your Ark has several purposes. By voting for a delegate you help secure the Ark network (most importantly), and the lure of voting is that most delegates provide an incentive for voting for them by rewarding you with Ark on a periodic basis (amount and how often paid differs between delegates). Some think of this as interest earned for their Ark. 
 
-Each delegate is unique and brings different skill sets to the Ark Ecosystem, so before voting for who you think should be entrusted with securing the Ark network you should do your due diligence and research the delegates. More information about the delegates and frequently asked questions regarding voting and delegates can be found in the FAQ and Links section towards the bottom of this User Guide. 
+Each delegate is unique and brings different skill sets to the Ark Ecosystem, so before voting for who you think should be entrusted with securing the Ark network you should conduct your due diligence and research the delegates. More information about the delegates and frequently asked questions regarding voting and delegates can be found in the [Frequently Asked Questions](#FAQ) and [Appendix/Useful Links](#appen) section towards the bottom of this User Guide. 
 
 1. Within your Ark Wallet you wish to Vote with, select the "VOTES" tab, located directly beneath your wallet address box. 
 
@@ -152,15 +155,15 @@ Each delegate is unique and brings different skill sets to the Ark Ecosystem, so
 
 4. You will now see a list of the top 51 delegates that are currently forging Ark. (*learn more about what this means in FAQ*) 
 
-![Imgur](https://i.imgur.com/AOWHMvV.png)
+<center>![Imgur](https://i.imgur.com/AOWHMvV.png)</center>
 
 5. For the sake of example we are selecting delegate "arkland". Input your passphrase on the next line and select "NEXT". 
 
-![Imgur](https://i.imgur.com/mYmxxGc.png)
+<center>![Imgur](https://i.imgur.com/mYmxxGc.png)</center>
 
-6. In the next window you will be prompted to send Ark in order to vote, this is a voting fee required that may change over time, when you're ready to vote for your selected delegate select "SEND NOW".
+6. In the next window you will be prompted to send Ark in order to vote, this is a voting fee required that may change over time. When you're ready to vote for your selected delegate select "SEND NOW".
 
-7. You will now see within the "Vote" tab your delegates rank (within top 51, for this example arkland is # 19), your delegates name, their wallet address, their approval and productivity. You will also see an "UNVOTE" option which will be reviewed in the next section. You have completed voting!
+7. You will now see within the "Vote" tab your delegates rank (within top 51, for this example arkland is # 19), your delegates name, their wallet address, their approval and productivity. You will also see an "UNVOTE" option which will be reviewed in the next section. You are now voting/staking your Ark for your selected delegate.
 
 ![Imgur](https://i.imgur.com/L13Ha4x.png)
 
@@ -171,7 +174,7 @@ ___
 ___
 
 
-### Unvoting a delegate
+### <a name="unvote">Unvoting a delegate</a>
 
 If your delegate is not contributing to the Ark community in a way he/she had promised, isn't paying their voters, or maybe a different delegate simply seems more attractive to you, you may wish to unvote your delegate. 
 
@@ -189,20 +192,44 @@ ___
 
 ### Various functions & featues within the Ark Client/Desktop Application
 
-The Ark Client/Desktop Application offers a myriad of functions and features for the user to explore and utilize. This User Guide will cover and explain some of the features most often used by the average user. 
+The ArkClient/Desktop Application offers a myriad of functions and features for the user to explore and utilize. This User Guide will cover and explain some of the features most often used by the average user. 
 
-#### Appearance
+#### <a name="appear">Appearance</a>
+
+You may change the background or theme in your ArkClient to fit your personal style and flavor. 
+
+1. From the homescreen or within your wallet the ribbon along the top of the client remains stationary. There is a gear icon for settings. Select it. 
+
+<center>![Imgur](https://i.imgur.com/oknZKq1.png)</center>
+
+2. A dropdown list will appear, you will see "APPEARANCE" at the bottom. Select it.
+
+3. You will be presented with multiple options to suit your preference. Select one, and when you're done select "SAVE". Your new background or theme will be set. 
+
+![Imgur](https://i.imgur.com/UXJZmZa.png)
+
+You may also choose to set a background picture from your personal selection of pictures.
+
+1. From the homescreen or within your wallet the ribbon along the top of the client remains stationary. There is a gear icon for settings. Select it. 
+
+<center>![Imgur](https://i.imgur.com/oknZKq1.png)</center>
+
+2. A dropdown list will appear, you will see "APPEARANCE" at the bottom. Select it.
+
+3. At the bottom left you will see an option, "ADD CUSTOM", select it. Now, navigate to the photo you wish to load into ArkClient. Select it and select "OPEN".
+
+4. Scroll up to the top of the background/theme selections. Your custom photo will be there. Select it, then select "SAVE". Your custom photo is set. 
 
 
 ___
 
-#### Renaming your Ark Wallet
+#### <a name="rename">Renaming your Ark Wallet</a>
 
-Instead of your Ark wallet address displaying on the homescreen of the Ark Client you can choose to rename/relabel your Ark wallet to what you wish. A few reasons for wanting to rename your Ark wallet could be you have multiple wallets and wish to easily distinguish between them, or perhaps you have different wallets for different purposes. 
+Instead of your Ark Wallet Address displaying on the homescreen of the ArkClient you can choose to rename/relabel your Ark Wallet to what you wish. A couple reasons for wanting to rename your Ark Wallet could be you have multiple wallets and wish to easily distinguish between them, or perhaps you have different wallets for different purposes. 
 
 1. Select the wallet you wish to give a new label.
 
-2. At the top right corner of your Ark wallet address box you will see 3 vertical dots. Select it.
+2. At the top right corner of your Ark Wallet Address box you will see 3 vertical dots. Select it.
 
 ![Imgur](https://i.imgur.com/x6d01DL.png)
 
@@ -212,31 +239,33 @@ Instead of your Ark wallet address displaying on the homescreen of the Ark Clien
 
 4. A new box will appear titled "Label". You will see your current Ark address prefilled on the line. Overwrite it with what you wish to name your wallet. When you're done, select "SET". (*don't worry, this doesn't 'delete' your Ark address.*)
 
-5. You will now see your wallet renamed to whatever you set it as. In this example we labeled it "My Main Wallet". 
+5. You will now see your wallet renamed to whatever you set it as. In this example we labeled it "My Main Wallet".
+
+**Note:** This new label can only be seen by you in your ArkClient.
 
 <center>![Imgur](https://i.imgur.com/5LwiPOR.png)</center>
 
-6. If you navigate to the Ark Client homescreen (by selecting "Ark Client" in the upper left hand corner) you will also see the newly labeled wallet there. You have completed Renaming your Ark Wallet.
+6. If you navigate to the ArkClient homescreen (by selecting "Ark Client" in the upper left hand corner) you will also see the newly labeled wallet there. You have completed Renaming your Ark Wallet.
 
 ___
 
-#### Adding a second passphrase
+#### <a name="2ndpass">Adding a second passphrase</a>
 
-You can add a second passphrase to your Ark wallet for an added layer of security. You may want to do this if you have a large amount of Ark or if you believe somebody else may know your first passphrase (or most of it). 
+You can add a second passphrase to your Ark Wallet for an added layer of security. You may want to do this if you have a large amount of Ark or if you believe somebody else may know your first passphrase (or most of it). 
 
 **Note:** By adding a second passphrase you will be required from that point forward to use both your first and second passphrase to send transactions. You cannot remove the second passphrase once it is added and it is just as important to keep safe and kept secure as your first. This is usually not advised for the average user.
 
-1. At the top right corner of your Ark wallet address box you will see 3 vertical dots. Select it.
+1. At the top right corner of your Ark Wallet Address box you will see 3 vertical dots. Select it.
 
 ![Imgur](https://i.imgur.com/x6d01DL.png)
 
-2. You will notice a new ribbon of options appear at the bottom of your Ark Client. Select the "SECOND PASSPHRASE" option. 
+2. You will notice a new ribbon of options appear at the bottom of your ArkClient. Select the "SECOND PASSPHRASE" option. 
 
 <center>![Imgur](https://i.imgur.com/elDLZXw.png)</center>
 
 3. A warning box will appear advising you it will cost you 5 Ark to add a second passphrase. Select "CONTINUE".
 
-4. A new window titled "Create Second Passphrase" will appear. The warning to copy your passphrase exactly will also be present, and below that will be your second 12 word passphrase. Copy it down exactly and verify you have down so. Select "NEXT".
+4. A new window titled "Create Second Passphrase" will appear. The warning to copy your passphrase exactly will also be present, and below that will be your second 12 word passphrase. Copy it down exactly and verify you have done so. Select "NEXT".
 
 5. The next window titled "Create Second Passphrase" will ask for your first passphrase and your new second passphrase. Input them and select "CREATE". 
 
@@ -249,13 +278,13 @@ You can add a second passphrase to your Ark wallet for an added layer of securit
 ___
 
 
-#### Remove wallet from Client
+#### <a name="removewallet">Remove wallet from Client</a>
 
-You may want to remove a wallet from the Ark Client if you have multiple wallets and you have some wallets you don't use anymore, or you're using a shared computer and don't want your wallets information to populate for when the next user opens Ark Client. Removing a wallet is easy and will **not** delete your wallet and it's contents. You can learn how to re-import your removed wallet in the next section. 
+You may want to remove a wallet from the ArkClient if you have multiple wallets and you have some wallets you don't use anymore, or you're using a shared computer and don't want your wallets information to populate for when the next user opens ArkClient. Removing a wallet is easy and will **not** delete your wallet and it's contents. You can learn how to re-import your removed wallet in the next section. 
 
 **Note:** If you remove your wallet from the client and later import that wallet back, any previously added labels will be gone. 
 
-1. At the top right corner of your Ark wallet address box you will see 3 vertical dots. Select it.
+1. At the top right corner of your Ark Wallet Address box you will see 3 vertical dots. Select it.
 
 ![Imgur](https://i.imgur.com/x6d01DL.png)
 
@@ -265,21 +294,35 @@ You may want to remove a wallet from the Ark Client if you have multiple wallets
 
 3. A box will appear titled "Remove Account (your-ark-address)". Select "REMOVE ACCOUNT". 
 
-4. You wallet is now removed from that Ark Client. 
+4. You wallet is now removed from that ArkClient. 
 
 ___
 
-#### Timestamp a File
+#### <a name="import">Import Account</a>
 
-With the Ark Client you can timestamp a file on the Ark blockchain. Ark Client will hash the file with SHA256. Hashing provides a unique string of characters based on the data within the file (does not include meta data). If so much as a period is removed from the file (in a text document for instance) the unique string will be vastly different. This provides proof of authenticity for the file and the timestamp provides the instance in time existed exactly as it is. This data being written to the blockchain provides immutable proof of a documents authenticity. 
+You may want to import an account if you're on a new computer, newly downloaded ArkClient, or if you previously removed your wallet from the client. 
+
+1. On the ArkClient homescreen select "IMPORT ACCOUNT".
+
+2. A box titled "Import Account" will appear and ask for your passphrase.
+
+3. Input your passphrase and select "IMPORT".
+
+4. Your wallet is now imported into the ArkClient.
+
+___
+
+#### <a name="timestamp">Timestamp a File</a>
+
+With the Ark Client you can timestamp a file on the Ark Blockchain. ArkClient will hash the file with SHA256. Hashing provides a unique string of characters based on the data within the file (does not include meta data). If so much as a period is removed from the file (in a text document for instance) the unique string will be vastly different. This provides proof of authenticity for the file and the timestamp provides the instance in time existed exactly as it is. This data being written to the Ark Blockchain provides immutable proof of a documents authenticity. 
 
 ![Imgur](https://i.imgur.com/Xt5Abn3.png)
 
-1. At the top right corner of your Ark wallet address box you will see 3 vertical dots. Select it.
+1. At the top right corner of your Ark Wallet Address box you will see 3 vertical dots. Select it.
 
 ![Imgur](https://i.imgur.com/x6d01DL.png)
 
-2. You will notice a new ribbon of options appear at the bottom of your Ark Client. Select the "TIMESTAMP DOCUMENT" option. 
+2. You will notice a new ribbon of options appear at the bottom of your ArkClient. Select the "TIMESTAMP DOCUMENT" option. 
 
 <center>![Imgur](https://i.imgur.com/0Ijop1i.png)</center>
 
@@ -293,29 +336,15 @@ With the Ark Client you can timestamp a file on the Ark blockchain. Ark Client w
 
 ![Imgur](https://i.imgur.com/qCWnxO1.png)
 
-*More about hashing and timestamping can be found in the FAQ & Appendix sections of this User Guide.*
-
-___
-
-#### Import Account
-
-You may want to import an account if you're on a new computer, newly downloaded Ark Client, or if you previously removed your wallet from the client. 
-
-1. On the Ark Client homescreen select "IMPORT ACCOUNT"
-
-2. A box titled "Import Account" will appear and ask for your passphrase.
-
-3. Simply input your passphrase and select "IMPORT".
-
-4. Your wallet is now imported into the Ark Client.
+*More about hashing and timestamping can be found in the [FAQ](#FAQ) & [Appendix/Useful Links](#appen) sections of this User Guide.*
 
 ___
 
 #### Different settings within Ark Client/Desktop Application 
 
-##### Currency
+##### <a name="currency">Currency</a>
 
-Ark Client is automatically set to USD. If you want the Ark Client to display Arks current exchange rate with your preferred currency (if available) you can change it so it appears by default on the homescreen and within your wallet. 
+ArkClient is automatically set to USD. If you want the ArkClient to display Arks current exchange rate with your preferred currency (if available) you can change it so it appears by default on the homescreen and within your wallet. 
 
 1. From the homescreen or within your wallet the ribbon along the top of the client remains stationary. There is a gear icon for settings. Select it. 
 
@@ -331,17 +360,17 @@ ____
 
 ##### Price
 
-You can view the current price each Ark is trading for on your homescreen, it will be displayed as your set currency rate. Price changes are also provided by 1 hour, 24 hour, and 7 days. 
+You can view the current price each Ark is trading for on your homescreen, it will be displayed as your set currency rate. Price changes are also provided by 1 hour, 24 hour, and 7 days % change increments.
 
-The price is retrieved from CoinMarketCap.com 
+The price is retrieved from <https://coinmarketcap.com/>
 
 <center>![Imgur](https://i.imgur.com/Jjw61rl.png)</center>
 
 ___
 
-##### Language
+##### <a name="lang">Language</a>
 
-Ark Client is automatically set to English as the default language. You can change this to your preferred language in settings. 
+ArkClient is automatically set to English as the default language. You can change this to your preferred language in settings. 
 
 1. From the homescreen or within your wallet the ribbon along the top of the client remains stationary. There is a gear icon for settings. Select it. 
 
@@ -349,34 +378,34 @@ Ark Client is automatically set to English as the default language. You can chan
 
 2. A dropdown list will appear, you will see "LANGUAGE" and a dropdown to the right of it defaulted on "ENGLISH". 
 
-3. Select the drowndown and choose your language of preference. 
+3. Select the dropdown and choose your language of preference. 
 
-5. Your selected language is now set as the default language and the Ark Client will reflect that. 
+5. Your selected language is now set as the default language and the ArkClient will reflect it. 
 
 ___
 
-#### Add Contacts
+#### <a name="contacts">Add Contacts</a>
 
 You may want to Add Contacts within your Ark Client to easily identify owners of wallets that you interact with. This will also make that wallet more readily available for you to interact with and provide some transaction data.
 
 1. For the contact you wish to identify you will need to have their wallet address copied.
 
-2. With your wallet open you will see on the left hand side of the Ark Client "+ ADD CONTACT". Select it.
+2. With your wallet open you will see on the left hand side of the ArkClient "+ ADD CONTACT". Select it.
 
 3. A new window will appear titled "Add Contact". On the first line input the name you wish to identify that wallet as. On the second line paste the wallet address you have copied. Select "ADD".
 
-5. You will now see that contact added on the left hand side of the Ark Client. If you hover your cursor over the "i" (information) icon within that contact you can see transactions between you and that wallet/contact. You have completed Add Contacts.
+5. You will now see that contact added on the left hand side of the ArkClient. If you hover your cursor over the "i" (information) icon within that contact you can see transactions between you and that wallet/contact. You have completed Add Contacts.
 
 <center>![Imgur](https://i.imgur.com/1d68aU8.png)</center>
 
 ___
 
 
-#### Frequently Asked Questions
+#### <a name="FAQ">Frequently Asked Questions</a>
 
-*Q: What happens if my Ark Client/Desktop Application gets deleted/uninstalled? Do I lose all my Ark?*
+*Q: What happens if my ArkClient/Desktop Application gets deleted/uninstalled? Do I lose all my Ark?*
 
-**A: No. You simply need to reinstall the Ark Client and re-import your wallet using your passphrase.**
+**A: No. You simply need to reinstall the ArkClient and [re-import](#import) your wallet using your passphrase.**
 
 *Q: What happens if I lose my passphrase? Is there any way to recover it?*
 
@@ -398,9 +427,17 @@ ___
 
 **A: A block is forged every 8 seconds. Each block forged creates 2 Ark.**
 
+*Q: What does "top 51" delegates mean? Are there more delegates?*
+
+**A: Only the top 51 delegates with the most most are allowed to forge/validate/secure the Ark Network. It is up to the community to keep the most trusted/honest delegates in charge of doing so. This creates a democracy of sorts, giving power to the Ark holders.**
+
+*Q: Can I vote for 2 delegates at the same time with 1 wallet?*
+
+**A: No. You can only vote for 1 delegate with each wallet. 1 Ark = 1 Vote for 1 Delegate. This system ensures individuals with large amounts of Ark cannot act maliciously by voting for multiple delegates with one wallet.**
+
 *Q: When can I expect payment from my delegate?*
 
-**A: Payment from your delegate depends on various things like the amount of Ark you're staking and their payout frequency and minimum payout amount. You can learn more about this in the delegate proposals subreddit. Link provided in Appendix.**
+**A: Payment from your delegate depends on various things like the amount of Ark you're staking and their payout frequency and minimum payout amount. You can learn more about this in the delegate proposals subreddit. Link provided in [Appendix](#appen).**
 
 *Q: If I am voting for a delegate can I still send or use my Ark or is it ‘locked’ up? Do I keep my Ark when I vote?*
 
@@ -408,7 +445,7 @@ ___
 
 *Q: Does my wallet need to be open and running for my vote to count and collect payout?*
 
-**A: No your Ark Client does not need to be running. Simply vote for your delegate and your vote counts.**
+**A: No, your ArkClient does not need to be running. Simply vote for your delegate and your vote counts.**
 
 *Q: Will timestamping my file make it viewable to others that explore the blockchain?*
 
@@ -418,9 +455,10 @@ ___
 
 **A: No, the name you assign a wallet is unique to you and only you see it that way.**
 
+
 ___
 
-#### Appendix/Useful Links
+#### <a name="appen">Appendix/Useful Links</a>
 
 Official Ark Site - <https://ark.io/>
 
@@ -436,7 +474,7 @@ Official Ark Trader Reddit - <https://www.reddit.com/r/arktrader/>
 
 CoinMarketCap - <https://coinmarketcap.com/> *View different cryptocurrency statistics. This is where the price in the Ark Client for Ark is derived from.*
 
-SHA256 Hasher - <https://passwordsgenerator.net/sha256-hash-generator/> *Feel free to use this to verify and test Ark Client hashed your document the way it should with Timestamp Document function.*
+SHA256 Hasher - <https://passwordsgenerator.net/sha256-hash-generator/> *Feel free to use this to verify and test ArkClient hashed your document the way it should with [Timestamp Document function](#timestamp).*
 
 The Official Ark handle on Twitter is: @ArkEcosystem
 
