@@ -11,5 +11,14 @@ complete with pictures and infographics.
 
 Personal goal: I aimed to write this guide in a tone that was softer than most software user guides. My intended
 audience is the average, everyday user that is not necassarily tech savy. I wanted to avoid the rigid and confusing nature
-of a lot of other user guides out there for software. I believe I accomplished that while also aligning my tone with how other
+of a lot of other user guides out there for software. 
+
+Result: I believe I accomplished that while also aligning my tone with how other
 Ark blogs and write-ups appear. 
+
+Reservations: Some of the questions in the FAQ section feel like they're out of scope for 
+the Client User Guide. I felt the need to address some of those commonly asked questions here
+but I do also think they may not belong there. 
+
+ver1.31 - all grammar reviewed and edited. images not centered.
+ver1.312 - all grammar reviewed and edited. images centered. 
